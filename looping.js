@@ -24,9 +24,9 @@
 // }
 
     
-let i=1;
-do{
-    console.log("You are here");
-    i++;
+// let i=1;
+// do{
+//     console.log("You are here");
+//     i++;
 
-}while(i<=10);
+// }while(i<=10);
